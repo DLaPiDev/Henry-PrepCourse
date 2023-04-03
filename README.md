@@ -1,1 +1,1 @@
-# Henry-PrepCourse
+Este proyecto sirve para probar y clonar diferentes actividades con git y github
